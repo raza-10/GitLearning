@@ -35,5 +35,7 @@ Changes to be committed:
 	new file:   hello_world.py
 
 qarar@Razas-MacBook-Air LearngitRepo % 
+print ('done with for loops')
+print ('wait what about while loops')
 
 
