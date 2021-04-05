@@ -37,5 +37,6 @@ Changes to be committed:
 qarar@Razas-MacBook-Air LearngitRepo % 
 print ('done with for loops')
 print ('wait what about while loops')
+print('check 1')
 
 
